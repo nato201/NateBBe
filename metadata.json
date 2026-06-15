@@ -1,0 +1,6 @@
+{
+  "name": "Nat bbe",
+  "description": "A sleek, dark-themed AI chatbot companion named Nat bbe that provides real-time intelligent responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
